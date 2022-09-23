@@ -23,9 +23,8 @@
   ##
   
 - 🔭 I’m currently working on Developing my skills
-- 🌱 I’m currently learning Software development at ecolé 42 São Paulo
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 🌱 I’m currently learning Software development at école 42 São Paulo
+
 - 📫 How to reach me: mfghost69@gmail.com
-- ⚡ Fun fact: ...
 -->
