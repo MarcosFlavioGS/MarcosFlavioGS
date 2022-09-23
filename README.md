@@ -5,9 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFlavioGS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-###
+##
 <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+##
   
 - 🔭 I’m currently working on Developing my skills
 - 🌱 I’m currently learning Software development at ecolé 42 São Paulo
