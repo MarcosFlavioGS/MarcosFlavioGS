@@ -6,9 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ---
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   
 - 🔭 I’m currently working on Developing my skills
 - 🌱 I’m currently learning Software development at ecolé 42 São Paulo
