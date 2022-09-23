@@ -16,6 +16,8 @@
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 </div>
   
+  ##
+
 - 🔭 I’m currently working on Developing my skills
 - 🌱 I’m currently learning Software development at ecolé 42 São Paulo
 - 🤔 I’m looking for help with ...
