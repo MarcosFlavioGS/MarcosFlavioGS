@@ -17,7 +17,11 @@
 </div>
   
   ##
-
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+  
 - 🔭 I’m currently working on Developing my skills
 - 🌱 I’m currently learning Software development at ecolé 42 São Paulo
 - 🤔 I’m looking for help with ...
