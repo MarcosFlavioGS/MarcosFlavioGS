@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif">
+    <img src="https://giphy.com/gifs/hacker-man-grant-mooney-d6p2TeOmY2tlmpB4HK">
 </p>
 
 # Hi there 👋
