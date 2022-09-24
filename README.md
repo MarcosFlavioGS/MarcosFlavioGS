@@ -1,6 +1,4 @@
-<p align="center" width="100%">
-    <img src="https://github.com/MarcosFlavioGS/alineagq/blob/main/https://media2.giphy.com/media/d6p2TeOmY2tlmpB4HK/giphy.gif?cid=ecf05e47syfl88hpbuajqs4k54jfht1qk99oaytybr7mn0ra&rid=giphy.gif&ct=g">
-</p>
+
 
 ### Hi there 👋
 
