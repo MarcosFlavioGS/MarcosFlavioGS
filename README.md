@@ -1,5 +1,6 @@
-![](https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif)
-
+<dev align="center">
+  ![](https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif)
+</div>
 ### Hi there 👋
 
 <div align="center">
