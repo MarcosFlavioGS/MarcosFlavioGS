@@ -25,7 +25,6 @@
 </div>
     
 <div align="center">
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
 </div>
