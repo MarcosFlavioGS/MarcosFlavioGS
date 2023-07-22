@@ -30,10 +30,6 @@
   
   ##
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
-  
 - 🔭 I’m currently working on Developing my skills
 
 - 🌱 I’m currently learning Software engineering at école 42 São Paulo
