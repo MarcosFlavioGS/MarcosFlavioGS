@@ -11,9 +11,11 @@
 </div>
   
   ##
-  
+<div id="linux" align="center">
+  <img height="70em" width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
+
 <div id="languages" align="center">
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
