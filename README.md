@@ -41,7 +41,7 @@
   
   ##
   
-- 🔭 I’m currently working on Developing my skills
+- 🔭 I’m currently working on @Hollowsoft
 
 - 🌱 I’m currently learning Software engineering at école 42 São Paulo
 
