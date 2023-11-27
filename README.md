@@ -15,7 +15,9 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D82BB&height=120&section=header">
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=These+are+my+especialities;)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=These+are+my+especialities)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D82BB&height=120&section=footer">
   
   ##
