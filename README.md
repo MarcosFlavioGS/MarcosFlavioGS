@@ -6,6 +6,8 @@
     <img src="https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif">
 </p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3393FF&height=120&section=footer">
+
 # Hi there 👋
 
 <div align="center">
