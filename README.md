@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3393FF&height=120&section=header">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Marcos+Flávio;I+like+programing;Welcome+!+:%29)
+
 <p align="center" width="100%">
     <img src="https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif">
 </p>
@@ -9,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/MarcosFlavioGS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFlavioGS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
   ##
