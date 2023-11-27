@@ -14,11 +14,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D82BB&height=120&section=header">
-
 ##
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=These+are+my+especialities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=Tecnologies)
   
 ##
 <div id="linux" align="center">
@@ -50,8 +48,6 @@
 </div>
   
 ##
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D82BB&height=120&section=footer">
   
 - 🔭 I’m currently a full stack developer on @Hollowsoft
 
