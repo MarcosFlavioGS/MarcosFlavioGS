@@ -50,4 +50,4 @@
 - 📫 How to reach me: mfghost69@gmail.com
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=120&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3393FF&height=120&section=footer">
