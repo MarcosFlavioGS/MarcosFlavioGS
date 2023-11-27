@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3393FF&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D82BB&height=120&section=header">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Marcos+Flávio;I+like+programing;Welcome+!+:%29)
 
@@ -6,7 +6,7 @@
     <img src="https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif">
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3393FF&height=120&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D82BB&height=120&section=footer">
 
 # Hi there 👋
 
@@ -54,4 +54,4 @@
 - 📫 How to reach me: mfghost69@gmail.com
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3393FF&height=120&section=footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D82BB&height=120&section=footer">
