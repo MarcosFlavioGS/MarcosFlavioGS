@@ -47,7 +47,7 @@
   
 ##
   
-- 🔭 I’m currently a full stack developer on @Hollowsoft
+- 🔭 I’m currently a full stack developer on @Elebbre
 
 - 🌱 I’m currently learning Software engineering at école 42 São Paulo
 
