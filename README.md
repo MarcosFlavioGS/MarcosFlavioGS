@@ -48,13 +48,14 @@
 <div id="DevOps" align="center">
   <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
   
 ##
   
-- 🔭 I’m currently a full stack developer on @Elebbre
+- 🔭 I’m currently a full stack developer on @Elebbre @Maquinalista
 
-- 🌱 I’m currently learning Software engineering at école 42 São Paulo
+- 🌱 I’m currently learning more about DevOps
 
 - 📫 How to reach me: mfghost69@gmail.com
 -->
