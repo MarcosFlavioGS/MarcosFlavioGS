@@ -37,10 +37,13 @@ fn main() {
 
 <div align="center">
 
-<a href="https://github.com/MarcosFlavioGS">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcosFlavioGS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=0d1117"/>
-</a>
+<!-- Profile Summary Cards   self-hosted, very reliable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosFlavioGS&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosFlavioGS&theme=github_dark" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosFlavioGS&theme=github_dark" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosFlavioGS&theme=github_dark" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosFlavioGS&theme=github_dark&utcOffset=-3" height="160em"/>
 
 <br/>
 
@@ -108,6 +111,11 @@ fn main() {
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=2EA043&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%BE;Keep+building%2C+keep+learning.;%22Code+is+poetry+written+for+machines%22)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MarcosFlavioGS&color=2ea043&style=flat-square&label=Profile+Views)
+
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarcosFlavioGS&color=2ea043&style=flat-square&label=Profile+Views)
 
