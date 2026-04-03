@@ -53,7 +53,7 @@
   
 ##
   
-- 🔭 I’m currently a full stack developer on @Elebbre @Maquinalista
+- 🔭 I’m currently a full stack developer on @JustTravel
 
 - 🌱 I’m currently learning more about DevOps
 
