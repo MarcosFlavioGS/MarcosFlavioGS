@@ -1,61 +1,114 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Marcos+Flávio;I+like+programing;Welcome+!+:%29)
+<div align="center">
 
-<p align="center" width="100%">
-    <img src="https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Marcos+Fl%C3%A1vio+%F0%9F%91%BE;Full+Stack+Developer+%7C+DevOps+Explorer;I+build+things+that+matter+%F0%9F%94%A5;Welcome+to+my+corner+of+GitHub!)](https://git.io/typing-svg)
 
-# Hi there 👋
+<img src="https://github.com/MarcosFlavioGS/MarcosFlavioGS/blob/main/giphy.gif" width="480"/>
+
+</div>
+
+---
+
+##   About Me
+
+```rust
+struct Developer {
+    name:     &'static str,
+    role:     &'static str,
+    location: &'static str,
+    focus:    Vec<&'static str>,
+}
+
+fn main() {
+    let me = Developer {
+        name:     "Marcos Fl�vio",
+        role:     "Full Stack Developer @ JustTravel",
+        location: "Brazil   ",
+        focus:    vec!["Systems", "Web", "DevOps", "Functional Programming"],
+    };
+
+    println!("Currently leveling up: DevOps  ");
+    println!("Reach me at: mfghost69@gmail.com  ");
+}
+```
+
+---
+
+##   GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/MarcosFlavioGS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFlavioGS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=7&theme=onedark"/>
+
+<a href="https://github.com/MarcosFlavioGS">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarcosFlavioGS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcosFlavioGS&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=0d1117"/>
+</a>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarcosFlavioGS&theme=onedark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043)](https://git.io/streak-stats)
+
 </div>
 
-##
+---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ea043&size=35&center=true&vCenter=true&width=1000&lines=Tecnologies)
-  
-##
-<div id="linux" align="center">
-  <img height="100em" width="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="100em" width="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+##    Tech Stack
+
+###    Operating Systems
+<div align="center">
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux"/>
 </div>
 
-<div id="languages" align="center">
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg"/>
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
-    
-<div id="frameworks" align="center">
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+###   Languages
+<div align="center">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" title="Elixir"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" title="OCaml"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" title="Scala"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
 </div>
 
-<div id="databases" align="center">
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+###    Frameworks
+<div align="center">
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" title="Phoenix"/>
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS"/>
 </div>
-<div id="DevOps" align="center">
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-  <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+###    Databases
+<div align="center">
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
 </div>
-  
-##
-  
-- 🔭 I’m currently a full stack developer on @JustTravel
 
-- 🌱 I’m currently learning more about DevOps
+###    DevOps & Cloud
+<div align="center">
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" title="Terraform"/>
+  <img height="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"/>
+</div>
 
-- 📫 How to reach me: mfghost69@gmail.com
--->
+---
+
+##   Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mfghost69%40gmail.com-2ea043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfghost69@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MarcosFlavioGS-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosFlavioGS)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=2EA043&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%BE;Keep+building%2C+keep+learning.;%22Code+is+poetry+written+for+machines%22)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MarcosFlavioGS&color=2ea043&style=flat-square&label=Profile+Views)
+
+</div>
