@@ -20,9 +20,9 @@ struct Developer {
 
 fn main() {
     let me = Developer {
-        name:     "Marcos Fl�vio",
-        role:     "Full Stack Developer @ JustTravel",
-        location: "Brazil   ",
+        name:     "Marcos Flávio",
+        role:     "Back-end Developer @ JustTravel",
+        location: "Brazil, São Paulo",
         focus:    vec!["Systems", "Web", "DevOps", "Functional Programming"],
     };
 
