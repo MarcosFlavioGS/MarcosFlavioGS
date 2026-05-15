@@ -115,8 +115,3 @@ fn main() {
 ![Profile Views](https://komarev.com/ghpvc/?username=MarcosFlavioGS&color=2ea043&style=flat-square&label=Profile+Views)
 
 </div>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=MarcosFlavioGS&color=2ea043&style=flat-square&label=Profile+Views)
-
-</div>
